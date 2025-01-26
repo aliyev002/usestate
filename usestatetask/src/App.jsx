@@ -1,11 +1,11 @@
 import { useState } from 'react';
 import './App.css';
-import PrintProds from './assets/PrintProds.jsx';
+import PrintProductss from './assets/PrintProducts.jsx';
 
 function App() {
   return (
     <div>
-      <PrintProds />
+      <PrintProducts />
     </div>
   );
 }
