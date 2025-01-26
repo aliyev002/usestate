@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-function PrintProds() {
+function PrintProducts() {
   const products = [
     { id: 1, title: "alma", number: 6 },
     { id: 2, title: "armud", number: 2 },
@@ -66,4 +66,4 @@ function PrintProds() {
   );
 }
 
-export default PrintProds;
+export default PrintProducts;
